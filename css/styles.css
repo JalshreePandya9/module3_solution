@@ -56,17 +56,18 @@ section {
 }
 
 #beef {
-	border: 1px solid black;
+/* 	border: 1px solid black; */
 	text-align: center;
 	width: 30%;
-	margin-left: 70%;
+	margin-left: auto;
+	margin-right: auto;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
-	font-size: 125%;
+	font-size: 150%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+/* 	background-color: #FF1439; */
 }
 
 #sushi {
