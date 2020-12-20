@@ -43,8 +43,9 @@ section {
 #chicken {
 /* 	border: 1px solid black; */
 	text-align: center;
-	width: 30%;
-/* 	margin-left: 70%; */
+/* 	width: 30%; */
+	margin-left: auto;
+	margin-right: auto;
 	font-family: Georgia,sans-serif;
 	font-weight: bold;
 	font-size: 125%;
